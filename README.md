@@ -1,4 +1,4 @@
-# esp82xx
+  esp82xx
 
 Useful ESP8266/ESP8285 C Environment.
 Includes libraries and some basic functionality such as a Web-GUI, flashing firmware and changing the UI over network as well as basic GPIO functions.
@@ -8,8 +8,8 @@ Just include it as sub-module in derivate projects.
 
 NOTE: If you are starting from another environment or from the factory, you should execute ```make erase initdefault``` this will set the flash up in a way compatible with the newer ESP NONOS SDK 2.x's.
 
-**Contributors,** please read the notes closely before you start (e.g. [Branches](#branches) and [Include Binaries](#include-binaries)).
-Make changes in the `dev` branch!
+**Contributors,** please read the notes closely before you start (e.g. [Branches](*branches) and [Include Binaries](#include-binaries)).
+Make changes in the `dev` branch#
 
 - [List of projects using esp82xx](#list-of-projects-using-esp82xx)
 - [Usage](#usage)
@@ -205,7 +205,7 @@ Most WiFi routers have an option in their Web-GUI to list all IPs, that their DH
 You could find out your ESP's IP this way.
 
 For general troubleshooting hints, see [esptools troubleshooting page](https://github.com/themadinventor/esptool#troubleshooting).
-It is excellent!
+It is excellent 
 
 ### Commands
 
@@ -514,3 +514,4 @@ paste it into your .bashrc.
 nano ~/.bashrc
 ```
 
+ 
