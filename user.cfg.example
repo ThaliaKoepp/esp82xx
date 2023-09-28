@@ -1,5 +1,5 @@
-###############################################################################
-# User Options
+ ##############################################################################
+#!User Options
 ###############################################################################
 
 CHIP  = 8266
@@ -52,3 +52,4 @@ PAGE_SCRIPTS = $(wildcard page/*.js) # include all javascrpts in ./web/page/
 PAGE_HEADING = Welcome to the basic Web-GUI
 PAGE_INFO = This is the basic web interface for esp82xx-series chips
 
+ 
