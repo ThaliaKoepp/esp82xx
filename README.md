@@ -1,4 +1,4 @@
-  esp82xx
+!*esp82xx
 
 Useful ESP8266/ESP8285 C Environment.
 Includes libraries and some basic functionality such as a Web-GUI, flashing firmware and changing the UI over network as well as basic GPIO functions.
@@ -514,4 +514,4 @@ paste it into your .bashrc.
 nano ~/.bashrc
 ```
 
- 
+  
